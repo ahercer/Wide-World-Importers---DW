@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PFJV38MbtEEQ2Olt/Y4ahXw12zTXLYcZjfhmARrPanDl6NBdMRtXW54/M2s68iSbNQ4OZhLEAdw4QccWhuUSVA==",
+  "success": true,
+  "projectFilePath": "c:\\WORK\\WWI-DW\\Wide World Importers - DW\\Wide World Importers - DW.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\annah\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\annah\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

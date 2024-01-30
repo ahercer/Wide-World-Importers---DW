@@ -1,0 +1,10 @@
+c:\WORK\WWI-DW\Wide World Importers - DW\bin\Debug\Wide World Importers - DW.dacpac
+c:\WORK\WWI-DW\Wide World Importers - DW\bin\Debug\Wide World Importers - DW.dll
+c:\WORK\WWI-DW\Wide World Importers - DW\bin\Debug\Wide World Importers - DW.pdb
+c:\WORK\WWI-DW\Wide World Importers - DW\obj\Debug\Wide World Importers - DW.sqlproj.AssemblyReference.cache
+c:\WORK\WWI-DW\Wide World Importers - DW\obj\Debug\Model.xml
+c:\WORK\WWI-DW\Wide World Importers - DW\obj\Debug\refactor.xml
+c:\WORK\WWI-DW\Wide World Importers - DW\obj\Debug\postdeploy.sql
+c:\WORK\WWI-DW\Wide World Importers - DW\obj\Debug\predeploy.sql
+c:\WORK\WWI-DW\Wide World Importers - DW\obj\Debug\Wide World Importers - DW.dll
+c:\WORK\WWI-DW\Wide World Importers - DW\obj\Debug\Wide World Importers - DW.pdb
